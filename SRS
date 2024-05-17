@@ -1,0 +1,21 @@
+                              SRS Documentation on library login 
+                                      Introduction
+this website is used to provide the information on the books available and user login with faster reservation
+
+          Overview:
+Scope: mainly provides a faster searching and reservation of books with a easy user interface.
+
+Objective : to perform a easy user login on reservation of books on fixed time
+
+Features:
+      1) easy user interface
+      2) faster search
+      3) Scalability
+
+Functional Requirements : server connectivity
+                          data collection on books
+                          reservation on books
+
+Non Functional requirements : Dashboard
+                              user login form
+                              tool section 
